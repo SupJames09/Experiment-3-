@@ -28,4 +28,5 @@ int main()
 			cout << temperature[x][y] << "\n";
 		}
 	}
+return 0;
 }
